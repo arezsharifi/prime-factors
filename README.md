@@ -63,10 +63,6 @@ enter your number: 60
 
 This project was created to practice Python programming fundamentals and improve problem-solving skills through mathematical programming.
 
-## 👨‍💻 Author
 
-Your Name
-
----
 
 ⭐ If you find this project useful, feel free to star the repository!
