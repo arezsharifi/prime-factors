@@ -19,23 +19,6 @@ The program:
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd your-repository-name
-   ```
-
-3. Run the Python file:
-
-   ```bash
-   python "prime factors.py"
-   ```
 
 ## 💻 Example
 
